@@ -25,9 +25,9 @@ I am extremely grateful to have worked in a few different projects during my und
 ### Ligand affinity prediction using Neural Networks
 
 
-Nevertheless, in a previous life I was an aspring biochemist working with Salmonella
+In addition to my current computational interest, in a previous life I was an aspring biochemist working with Salmonella
 
-#### Tuning the Catalytic Activity of Bacterial Microcompartments
+### Tuning the Catalytic Activity of Bacterial Microcompartments
 
 ## Miscellaneous 
 
