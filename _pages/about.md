@@ -31,10 +31,10 @@ Nevertheless, in a previous life I was an aspring biochemist working with Salmon
 
 ## Miscellaneous 
 
-#### Life philosophy: 
+### Life philosophy: 
 More often than not, you cannot have it all but you can always have a slice of cake instead.
 
-#### Trying to read more: 
+### Trying to read more: 
 Raymond Carver, functional analysis, FATE series
 
 
