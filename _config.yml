@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiqun Chen/ Yiqun's Homepage "
+title                    : "Anthony Suen / Futurist Manifesto "
 title_separator          : "-"
 name                     : &name "Yiqun Chen"
-description              : &description "personal description"
+description              : &description "Anthony"
 url                      : https://yiqunchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yiqunchen/yiqunchen.github.io"
