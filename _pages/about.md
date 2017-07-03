@@ -36,3 +36,5 @@ More often than not, you cannot have it all but you can always have a slice of c
 Raymond Carver, functional analysis, FATE series
 
 ## Profile Picture
+
+/
