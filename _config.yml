@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anthony Suen / Futurist Manifesto "
+title                    : "Yiqun Chen "
 title_separator          : "-"
-name                     : &name "Yiqun Chen"
+name                     : &name "Yiqun"
 description              : &description "Anthony"
-url                      : https://yiqunchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yiqunchen/yiqunchen.github.io"
+repository               : "anthonysuen/anthonysuens.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
