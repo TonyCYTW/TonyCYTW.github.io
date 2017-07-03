@@ -12,6 +12,8 @@ Welcome to my webiste. A recent graduate from UC Berkeley, I am interested in st
 
 In my spare time, I love cooking, baking, hiking and reading.
 
-## Profile Picture
-![alt text](/images/yiqun_profile.jpg "Logo Title Text 1")
+## Research Profile
+
+## Miscellaneous 
+
 
