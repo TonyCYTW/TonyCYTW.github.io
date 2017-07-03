@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiqun Chen/ is my name is not long? "
+title                    : "Yiqun Chen/ Yiqun's Homepage "
 title_separator          : "-"
-name                     : &name "Yiqun s my name is not long?"
+name                     : &name "Yiqun Chen"
 description              : &description "personal description"
 url                      : https://yiqunchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter 
+  username               : #&twitter 
 facebook:
   username               : 
   app_id                 :
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Yiqun Chen"
-  avatar           : "yiqun_profile.png"
+  avatar           : "yiqun_profile.jpg"
   bio              : "Aspiring statistician and cake addict"
   location         : "Berkeley, CA"
   employer         : 
