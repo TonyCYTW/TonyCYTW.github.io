@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiqun Chen          "
+title                    : "Yiqun Chen/ is my name is not long? "
 title_separator          : "-"
-name                     : &name "Yiqun         "
+name                     : &name "Yiqun s my name is not long?"
 description              : &description "personal description"
 url                      : https://yiqunchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
