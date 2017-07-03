@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Hi, I am Yiqun 
+Welcome to my webiste. A recent graduate from UC Berkeley, I am interested in statistical methodologies driven by real-world applications, especially in public health and genomics. Starting from Fall 2017, I will be a graduate student in Biostatistics at UW Seattle.
 
-This is the front page of your Github pages website! This repository was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose. 
+In my spare time, I love cooking, baking, hiking and reading.
 
-You can use all kinds of markdown here. See [the guide](/markdown/).
-
-## Images
-![alt text](/images/500x300.png "Logo Title Text 1")
+## Profile Picture
+![alt text](/images/yiqun_profile.jpg "Logo Title Text 1")
 
