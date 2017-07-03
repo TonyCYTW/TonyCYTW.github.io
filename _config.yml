@@ -11,7 +11,7 @@ title                    : "Yiqun Chen"
 title_separator          : "-"
 name                     : &name "Yiqun"
 description              : &description "personal description"
-url                      : https://yiqunchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yiqunchen.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yiqunchen/yiqunchen.github.io"
 teaser                   :  #"yiqun_profile.jpg"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Yiqun Chen"
-  avatar           : #"yiqun_profile.jpg"
+  avatar           : "yiqun_profile.jpg"
   bio              : "Aspiring biostatistician, addicted to cakes and hikes."
   location         : "Berkeley,CA"
   employer         : 
