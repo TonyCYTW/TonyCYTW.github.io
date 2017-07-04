@@ -11,21 +11,29 @@ redirect_from:
 
 Education
 ======
-* Masters in Information Management and Systems, UC Berkeley, 2015
-* Masters in International Policy Studies, Stanford University, 2011
-* Bachelors in Global Economics, UC Santa Cruz, 2007
+* Bachelors in Statistics, Chemical Biology, Computer Science and Applied Math, Highest Honor, UC Berkeley, August2013 - August 2017
 
-Work experience
+Research experience
 ======
 * Summer 2015: Research Assistant
   * UC Berkeley
-  * Duties included: Rejecting pull requests
-  * Supervisor: Professor Git
+  * Duties included: 
+  * Supervisor: 
 
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Rejecting pull requests
-  * Supervisor: Professor Hub
+  * UC Berkeley
+  * Duties included: 
+  * Supervisor: 
+  
+* Fall 2015: Research Assistant
+  * UC Berkeley
+  * Duties included: 
+  * Supervisor: 
+  
+* Fall 2015: Research Assistant
+  * UC Berkeley
+  * Duties included: 
+  * Supervisor: 
 
 Skills
 ======
@@ -42,7 +50,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}
 
-Talks
+Presentations
 ======
   {% for post in site.talks %}
     {% unless post.talk_type == "Conference proceedings talk" %}
