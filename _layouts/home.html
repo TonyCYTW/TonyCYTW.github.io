@@ -1,0 +1,15 @@
+
+---
+layout: single
+---
+
+<div class="page__content" style="width:100%">
+{% capture my_include %}{% include home.md %}{% endcapture %}
+{{ my_include | markdownify }}
+</div>
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %} -->
+
+<!-- {% include paginator.html %} -->

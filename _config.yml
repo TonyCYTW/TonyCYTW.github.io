@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Yiqun T. Chen"
-  avatar           : "/image/new_profile.jpeg"
+  avatar           : "new_profile.jpeg"
   bio              : "Statistician in the making"
   location         : "Seattle, WA"
   employer         : 
@@ -214,31 +214,13 @@ defaults:
       share: true
       comments: true
   # _publications
+  # home
   - scope:
       path: ""
-      type: publications
+      type: home
     values:
-      layout: single
+      layout: archive
       author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
       
 # Sass/SCSS
 sass:
