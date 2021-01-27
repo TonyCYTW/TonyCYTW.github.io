@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD Candidate in the [Department of Biostatistics]{https://www.biostat.washington.edu/}{:.color} at University of Washington, Seattle advised by [Daniela Witten]{https://www.danielawitten.com/}{:.color}. Before graduate school, I completed my undergraduate studies in Statistics, Computer Science, and Chemical Biology at University of California, Berkeley. 
+I am a PhD Candidate in the [Department of Biostatistics](https://www.biostat.washington.edu/) at University of Washington, Seattle advised by [Daniela Witten](https://www.danielawitten.com/). Before graduate school, I completed my undergraduate studies in Statistics, Computer Science, and Chemical Biology at University of California, Berkeley. 
 
 Broadly speaking, I am interested in developing rigorous statistical tools motivated by real-world datasets and analysis practices. Towards this goal, I have been working on the following methodological projects:
 * Developing valid inference procedures for hypotheses suggested by the data. 
