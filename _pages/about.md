@@ -1,14 +1,16 @@
 ---
 permalink: /
-title: "Welcome"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## Hi, I am Yiqun 
-Welcome to my webiste. I am currently a first year PhD student in Biostatistics at University of Washington, Seattle interested in statistical methodologies driven by real-world applications and datasets. Before moving to Seattle I spent four years at UC Berkeley, learned some mixture of Computer Science, Statistics, and Biochemistry.
+I am a PhD Candidate in the [Department of Biostatistics]{https://www.biostat.washington.edu/}{:.color} at University of Washington, Seattle advised by [Daniela Witten]{https://www.danielawitten.com/}{:.color}. Before graduate school, I completed my undergraduate studies in Statistics, Computer Science, and Chemical Biology at University of California, Berkeley. 
+
+Broadly speaking, I am interested in developing rigorous statistical tools motivated by real-world datasets and analysis practices. Towards this goal, I have been working on the following methodological projects:
+* Developing valid inference procedures for hypotheses suggested by the data. 
 
 <!-- In my spare time, I love cooking, baking, hiking and reading.
  -->
