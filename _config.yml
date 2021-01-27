@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Yiqun Tony Chen "
+locale                   : "en"
+title                    : "Yiqun T. Chen"
 title_separator          : "-"
-name                     : &name "Yiqun"
-description              : &description "Yiqun"
+name                     : &name "Yiqun T. Chen"
+description              : &description "Yiqun's personal website"
 url                      : https://yiqunchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yiqunchen.github.io"
@@ -29,7 +29,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yiqun"
+  name             : "Yiqun Chen"
   avatar           : "yiqun_profile.jpg"
-  bio              : "Aspiring statistician and cake addict"
-  location         : "Berkeley, CA"
+  bio              : "Statistician in the making"
+  location         : "Seattle, WA"
   employer         : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F7ZtD6Ukmcs8V2EEYOVRCYY9Og3YTHliOdKcTKfXbj2BKvj65VJj0CVnqvCk68IyZen94Cu8OCPD0HzEixmurngc0XaHeN_AH1RbMEbC6NN-GvE8mg&user=LKX12zEAAAAJ"
   email            : 
   uri              : 
   bitbucket        :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : #"academicpages"
+  github           : "yiqunchen"
   google_plus      :
   keybase          :
   instagram        : 
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "yc_yc_yc_yc"
   vine             :
   weibo            :
   xing             :
