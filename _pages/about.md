@@ -18,6 +18,7 @@ Broadly speaking, I am interested in developing rigorous statistical tools motiv
 
 <!-- In my spare time, I love cooking, baking, hiking and reading.
  -->
+
 # Methodological Research 
 
 ## Valid inference after "double-dipping"
@@ -36,7 +37,7 @@ Broadly speaking, I am interested in developing rigorous statistical tools motiv
 
 In a previous life, I was an aspiring biochemist and worked on microcompartments in Salmonella.
 
-### Tuning the Catalytic Activity of Bacterial Microcompartments
+### Tuning the catalytic activity of bacterial microcompartments
 
 <!-- ## Miscellaneous 
  -->
