@@ -61,6 +61,10 @@
 
   }
 
+  .markdown-block a {
+    color: blue !important;
+}
+
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
