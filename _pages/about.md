@@ -18,6 +18,14 @@ Outlined below are some of Yiqun's recent research projects. You can learn more 
 
 ### Quantifying uncertainty in spikes estimated from calcium imaging data
 
+Calcium imaging is an increasingly important class of data from the field of neuroscience. In recent years, a number of methods have been proposed to estimate the times at which a neuron spikes on the basis of calcium imaging data. However, quantifying the uncertainty associated with these estimated spikes remains an open problem. In this project, we tackled this problem using a *selective inference* approach. 
+
+#### Read more:
+
+
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 ### Social networks and HIV care outcomes in rural Kenya and Uganda
 
