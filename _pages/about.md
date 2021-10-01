@@ -10,11 +10,13 @@ redirect_from:
 
 # About
 
-I am a PhD Candidate in the [Department of Biostatistics](https://www.biostat.washington.edu/) at University of Washington, Seattle advised by [Daniela Witten](https://www.danielawitten.com/). Before graduate school, I completed my undergraduate studies in Statistics, Computer Science, and Chemical Biology at University of California, Berkeley. 
+Yiqun is a PhD candidate in the Department of Biostatistics at the University of Washington, advised by [Daniela Witten](https://www.danielawitten.com/). His dissertation focuses on leveraging toolkits from selective inference to quantify uncertainty in statistical machine learning, an increasingly critical topic in exploration-driven, real-world data analyses. He also has broad interests in applications of rigorous methods in computer science, public health, and biology. Prior to graduate school, Yiqun completed undergraduate degrees in Statistics, Computer Science, and Chemical Biology with higher distinction from the University of California, Berkeley.
+
+<!-- 
 
 Broadly speaking, I am interested in developing rigorous statistical tools motivated by real world datasets and analysis practice. My current interests include:
 - Developing valid inference procedures for "double-dipping" practice, and
-- Using formal statistical frameworks to (re-)analyze complex datasets, such as network data, computer experiment data, and data collected by complex surveys.
+- Using formal statistical frameworks to (re-)analyze complex datasets, such as network data, computer experiment data, and data collected by complex surveys. -->
 
 <!-- In my spare time, I love cooking, baking, hiking and reading.
  -->
