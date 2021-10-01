@@ -4,14 +4,21 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /wordpress/cv/
 ---
 
 {% include base_path %}
 
+<object data="https://yiqunchen.github.io/document/cv_yiqun_sept_2021.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://yiqunchen.github.io/document/cv_yiqun_sept_2021.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://yiqunchen.github.io/document/cv_yiqun_sept_2021.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+<!-- 
 Education
 ======
-* Bachelors in Statistics, Chemical Biology, Computer Science and Applied Math, Highest Honor, UC Berkeley, August2013 - August 2017
+* Bachelors in Statistics, Chemical Biology, Computer Science and Applied Math, Highest Honor, UC Berkeley, August
+2013 - August 2017
 
 Research experience
 ======
@@ -63,3 +70,4 @@ Teaching
   {% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}
+ -->
