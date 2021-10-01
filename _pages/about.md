@@ -16,11 +16,14 @@ Yiqun is a PhD candidate in Biostatistics at the University of Washington, advis
 # Selected Research Projects
 Outlined below are some of Yiqun's recent research projects. You can learn more about his research [here](https://yiqunchen.github.io/research/). 
 
-### Quantifying uncertainty in spikes estimated from calcium imaging data
+## Quantifying uncertainty in spikes estimated from calcium imaging data
 
 Calcium imaging is an increasingly important class of data from the field of neuroscience. In recent years, a number of methods have been proposed to estimate the times at which a neuron spikes on the basis of calcium imaging data. However, quantifying the uncertainty associated with these estimated spikes remains an open problem. In this project, we tackled this problem using a *selective inference* approach. 
 
-#### Read more:
+### More about this project:
+- Manuscript: Chen YT, Jewell SW, Witten DM. (2021) [Quantifying uncertainty in spikes estimated from calcium imaging data](https://arxiv.org/abs/2103.07818). arXiv:2103.0781 [statME]. (To appear in *Biostatistics*)
+- Software: [https://github.com/yiqunchen/SpikeInference](https://github.com/yiqunchen/SpikeInference)
+- Software tutorial: [https://yiqunchen.github.io/SpikeInference/](https://yiqunchen.github.io/SpikeInference/)
 
 
 <img src="https://github.com/yiqunchen/yiqunchen.github.io/blob/main/document/research_images/combined_plot_exp_7_cell_29_paper_example.png"
