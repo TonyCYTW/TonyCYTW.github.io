@@ -18,14 +18,14 @@ Outlined below are some of Yiqun's recent research projects. You can learn more 
 
 ## Quantifying uncertainty in spikes estimated from calcium imaging data
 
-Calcium imaging is an increasingly important class of data from the field of neuroscience. In recent years, a number of methods have been proposed to estimate the times at which a neuron spikes on the basis of calcium imaging data. However, quantifying the uncertainty associated with these estimated spikes remains an open problem. In this project, we tackled this problem using a *selective inference* approach. 
+Calcium imaging is an increasingly important class of data from the field of neuroscience. In recent years, a number of methods have been proposed to estimate the times at which a neuron spikes on the basis of calcium imaging data. However, quantifying the uncertainty associated with these estimated spikes remains in part an open problem. In this project, we tackled this problem using a *selective inference* approach. We demonstrate the use of our methods in simulations and real-world, benchmark calcium imaging datasets.
 
 ### More about this project:
 - Manuscript: Chen YT, Jewell SW, Witten DM. (2021) [Quantifying uncertainty in spikes estimated from calcium imaging data](https://arxiv.org/abs/2103.07818). arXiv:2103.0781 [statME]. (To appear in *Biostatistics*)
 - Software: [https://github.com/yiqunchen/SpikeInference](https://github.com/yiqunchen/SpikeInference)
 - Software tutorial: [https://yiqunchen.github.io/SpikeInference/](https://yiqunchen.github.io/SpikeInference/)
 
-![](https://github.com/yiqunchen/SpikeInference/blob/main/man/figures/combined_plot_exp_7_cell_29_paper_example.png)
+![](https://github.com/yiqunchen/yiqunchen.github.io/blob/main/document/research_images/Figure_6_b.png)
 
 
 
