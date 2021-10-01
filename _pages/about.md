@@ -25,10 +25,9 @@ Calcium imaging is an increasingly important class of data from the field of neu
 - Software: [https://github.com/yiqunchen/SpikeInference](https://github.com/yiqunchen/SpikeInference)
 - Software tutorial: [https://yiqunchen.github.io/SpikeInference/](https://yiqunchen.github.io/SpikeInference/)
 
+![](https://github.com/yiqunchen/SpikeInference/blob/main/man/figures/combined_plot_exp_7_cell_29_paper_example.png)
 
-<img src="https://github.com/yiqunchen/yiqunchen.github.io/blob/main/document/research_images/combined_plot_exp_7_cell_29_paper_example.png"
-     alt="Calcium imaging figure"
-     style="float: left; margin-right: 10px;" />
+
 
 ### Social networks and HIV care outcomes in rural Kenya and Uganda
 
