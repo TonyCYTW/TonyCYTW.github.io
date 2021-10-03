@@ -26,12 +26,10 @@ Social isolation among HIV-positive persons might be an important barrier to car
 ### More about this project:
 - Manuscript: Chen YT, Brown LB, Chamie G, Kwarisiima D, Ayieko J, Kabami J, Charlebois E, Clark T, Kamya M, Havlir DV, Petersen ML, and Balzer LB (2021). Social networks and HIV care outcomes in rural Kenya and Uganda. Epidemiology, 32(4):551-559. 
 - Link to the publisher version [here](https://journals.lww.com/epidem/Fulltext/2021/07000/Social_Networks_and_HIV_Care_Outcomes_in_Rural.12.aspx).
-- Software tutorial: [https://yiqunchen.github.io/SpikeInference/](https://yiqunchen.github.io/SpikeInference/)
-![](https://github.com/yiqunchen/yiqunchen.github.io/blob/main/document/research_images/Figure_6_b.png)
-- Two related projects were accepted as posters to CROI 2020: 
+<img src="{{site.url}}/images/cropped_network.png" style="display: block; margin: auto; max-width: 30%; float:right" />
+- Two related posters at CROI 2020: 
 	- Project 1: [Preliminary work of this manuscript](https://www.croiconference.org/abstract/hiv-persons-in-rural-uganda-with-fewer-social-connections-have-lower-hiv-suppression/)
 	- Project 2: [Using social networks to reach individuals with low CD4 counts](https://www.croiconference.org/abstract/using-social-networks-to-reach-individuals-with-low-cd4-at-high-risk-of-death/)
-<img src="{{site.url}}/images/cropped_network.png" style="display: block; margin: auto; max-width: 30%; float:right" />
 
 ## Revisiting the relationship between fault detection, test adequacy criteria, and test set size
 
