@@ -31,40 +31,11 @@ Social isolation among HIV-positive persons might be an important barrier to car
 - Two related projects were accepted as posters to CROI 2020: 
 	- Project 1: [Preliminary work of this manuscript](https://www.croiconference.org/abstract/hiv-persons-in-rural-uganda-with-fewer-social-connections-have-lower-hiv-suppression/)
 	- Project 2: [Using social networks to reach individuals with low CD4 counts](https://www.croiconference.org/abstract/using-social-networks-to-reach-individuals-with-low-cd4-at-high-risk-of-death/)
-<img src="{{site.url}}/images/cropped_network.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/images/cropped_network.png" style="display: block; margin: auto; max-width: 50%;" />
 
 ## Revisiting the relationship between fault detection, test adequacy criteria, and test set size
 
 https://homes.cs.washington.edu/~rjust/publ/mutants_faults_revisited_ase_2020.mp4
-<img src="{{site.url}}/images/test_slide.png" style="display: block; margin: auto;" />
-<!-- 
-# Methodological Research 
-
-## Valid inference after "double-dipping"
-
-## Social Network Analysis
-
-# Applied projects
-
-### Re-visit existing software engineering experiments
-
-### Why and how should Human-computer interaction researchers collect race and ethnicity data?
- -->
-<!-- ### Ligand affinity prediction using Neural Networks
- -->
-<!-- 
-
-In a previous life, I was an aspiring biochemist and worked on microcompartments in Salmonella.
-
-### Tuning the catalytic activity of bacterial microcompartments -->
-
-<!-- ## Miscellaneous 
- -->
-
-<!-- ### Life philosophy: 
-Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. -- Matthew 7.7
-### Current reading list: 
-Big Little Lies, All of Nonparametric Statistics, FATE series
- -->
+<img src="{{site.url}}/images/test_slide.png" style="display: block; margin: auto; max-width: 70%;" />
 
 
