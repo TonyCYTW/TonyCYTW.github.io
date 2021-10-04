@@ -7,7 +7,7 @@ author_profile: true
 
 You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=LKX12zEAAAAJ&hl=en&authuser=1)
 
-### Selected publications and preprints
+## Selected publications and preprints
 1. **Chen YT**, Jewell SW, and Witten DW (2021+). More powerful selective
 inference for the graph fused lasso. arXiv preprint. arXiv link: https://
 arxiv.org/abs/2109.10451.
@@ -32,7 +32,7 @@ arXiv link: http://arxiv.org/abs/1908.09059.
 (2016). Tuning the catalytic activity of subcellular nanoreactors. J Mol Biol.
 428(15):2989-2996.
 
-### Selected software
+## Selected software
 1. GFLassoInference: test for equality in means between a pair of connected components estimated from the graph fused lasso.
 	- An R package hosted on Github.
 	- Tutorials available [here](https://yiqunchen.github.io/GFLassoInference/).
