@@ -8,10 +8,8 @@ tags:
   - Pronunciation
 ---
 
-What's in a name?
-======
-Toward a more inclusive environment by pronouncing people’s names correctly.
-------
+## What's in a name?
+### Toward a more inclusive environment by pronouncing people’s names correctly.
 
 Have you ever had to correct how people pronounce your name? Or, have you ever wondered how to pronounce someone else’s names, or feared offending or creating an awkward situation when they cannot recognize your pronunciation of their names? As our department becomes increasingly diverse, the answer is probably yes for at least one, if not both, questions. 
 
