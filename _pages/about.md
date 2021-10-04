@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 # About
-Yiqun is a PhD candidate in Biostatistics at the University of Washington, advised by [Daniela Witten](https://www.danielawitten.com/). His dissertation focuses on leveraging toolkits from selective inference to quantify uncertainty in statistical machine learning. He also has broad interests in applied data analysis and has worked on collaborative projects in computer science, public health, and biology. His work has published in venues including Biostatistics, Epidemiology, ASE; in addition, he has received a best paper presentation award at WNAR 2021 and a young investigator award at CROI 2020. Prior to graduate school, Yiqun completed undergraduate degrees in Statistics, Computer Science, and Chemical Biology with higher distinction from the University of California, Berkeley.
+Yiqun Chen (pronunciation [here](./document/yiqunchen_name_recording.mp3)) is a PhD candidate in Biostatistics at the University of Washington, advised by [Daniela Witten](https://www.danielawitten.com/). His dissertation focuses on leveraging toolkits from selective inference to quantify uncertainty in statistical machine learning. He also has broad interests in applied data analysis and has worked on collaborative projects in computer science, public health, and biology. His work has been published in venues including Biostatistics, Epidemiology, and ASE; in addition, he has received a best paper presentation award at WNAR 2021 and a young investigator award at CROI 2020. Prior to graduate school, Yiqun completed undergraduate degrees in Statistics, Computer Science, and Chemical Biology with higher distinction from the University of California, Berkeley.
 
-Yiqun is always excited to learn about opportunities to collaborate and requests for reviews --- the best way to reach him is via email (yiqunc [at] uw [dot] edu).
+Yiqun is always excited to learn about opportunities to collaborate and to review --- the best way to reach him is via email (yiqunc [at] uw [dot] edu).
 
 # Selected Research Projects
 Outlined below are some of Yiqun's recent research projects. You can learn more about his research [here](https://yiqunchen.github.io/research/). 
