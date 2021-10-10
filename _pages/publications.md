@@ -8,14 +8,13 @@ author_profile: true
 You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=LKX12zEAAAAJ&hl=en&authuser=1)
 
 ## Selected publications and preprints
-1. **Chen YT**, Jewell SW, and Witten DW (2021+). More powerful selective
+1. **Chen YT**, Jewell SW, and Witten DM (2021+). More powerful selective
 inference for the graph fused lasso. arXiv preprint. arXiv link: https://
 arxiv.org/abs/2109.10451.
 2. **Chen YT**, Smith AD, Reinecke K, To A (2021+). Collecting and Reporting
 Race and Ethnicity Data in HCI: Who, Why, and How? Under double-blind
 review.
-3. **Chen YT**, Jewell SW, and Witten DW (2021). Quantifying uncertainty in
-spikes estimated from calcium imaging data. To appear in Biostatistics. arXiv link: https://arxiv.org/abs/2103.07818.
+3. **Chen YT**, Jewell SW, and Witten DM (2021). Quantifying uncertainty in spikes estimated from calcium imaging data. To appear in Biostatistics. arXiv link: https://arxiv.org/abs/2103.07818.
 4. **Chen YT**, Brown LB, Chamie G, Kwarisiima D, Ayieko J, Kabami J, Charlebois E, Clark T, Kamya M, Havlir DV, Petersen ML, and Balzer LB (2021). Social
 networks and HIV care outcomes in rural Kenya and Uganda. Epidemiology,
 32(4):551-559.
