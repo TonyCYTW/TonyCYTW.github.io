@@ -5,8 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 ## Teaching Assistant at University of Washington
-
-- Longitudinal and Multilevel Data Analysis (BIOSTAT 540; graduate-level; median evaluation: 4.7/5.0)
+- Categorical Data Analysis (BIOSTAT 536l graduate level)
+- Longitudinal and Multilevel Data Analysis (BIOSTAT 540; graduate-level; n=38, median evaluation: 4.7/5.0)
 - Machine Learning for Biomedical and Public Health Data (BIOSTAT 546;
 graduate-level)
 - Introductory Laboratory Based Biostatistics (UCONJ 510; graduate-level)
