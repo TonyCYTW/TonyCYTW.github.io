@@ -9,16 +9,17 @@ redirect_from:
 ---
 
 # About
-Yiqun Chen (pronunciation [here](./document/yiqunchen_name_recording.mp3)) is a PhD candidate in Biostatistics at the University of Washington, advised by [Daniela Witten](https://www.danielawitten.com/). His dissertation focuses on leveraging toolkits from selective inference to quantify uncertainty in statistical machine learning. He also has broad interests in applied data analysis and has worked on collaborative projects in computer science, public health, and biology. His work has been published in venues including Biostatistics, Epidemiology, and ASE; in addition, he has received a best paper presentation award at WNAR 2021 and a young investigator award at CROI 2020. Prior to graduate school, Yiqun completed undergraduate degrees in Statistics, Computer Science, and Chemical Biology with higher distinction from the University of California, Berkeley. He has worked at Amazon Search and Waymo LLC as summer interns. 
+Yiqun Chen (pronunciation [here](./document/yiqunchen_name_recording.mp3)) is a **final year** PhD candidate in Biostatistics at the University of Washington, advised by [Daniela Witten](https://www.danielawitten.com/). His dissertation focuses on leveraging toolkits from selective inference to quantify uncertainty in statistical machine learning. He also has broad interests in applied data analysis and has worked on collaborative projects in computer science, public health, and biology. His work has been published in venues including Biostatistics, Epidemiology, and ASE; in addition, he has received a best paper presentation award at WNAR 2021 and a young investigator award at CROI 2020. Prior to graduate school, Yiqun completed undergraduate degrees in Statistics, Computer Science, and Chemical Biology with higher distinction from the University of California, Berkeley. He has worked at Amazon Search and Waymo LLC as summer interns. 
 
-Yiqun is always excited to learn about opportunities to collaborate and to review --- the best way to reach him is via email **(yiqunc [at] uw [dot] edu)**.
+Yiqun is always excited to learn about opportunities to collaborate and to review! **He is also currently on the job market**, looking for post-doc/researcher positions in academia and industry that start after July 2022 --- the best way to reach him is via email **(yiqunc [at] uw [dot] edu)**.
+
 
 # Selected Research Projects
 Outlined below are some of Yiqun's recent research projects. You can learn more about his research [here](https://yiqunchen.github.io/research/). 
 ## Quantifying uncertainty in spikes estimated from calcium imaging data
 Calcium imaging is an increasingly important class of data from the field of neuroscience. In recent years, a number of methods have been proposed to estimate the times at which a neuron spikes on the basis of calcium imaging data. However, quantifying the uncertainty associated with these estimated spikes remains in part an open problem. In this project, we tackled this problem using a *selective inference* approach. We demonstrate the use of our methods in simulations and real-world, benchmark calcium imaging datasets.
 ### More about this project:
-- Manuscript: **Chen YT**, Jewell SW, Witten DM. (2021) [Quantifying uncertainty in spikes estimated from calcium imaging data](https://arxiv.org/abs/2103.07818). arXiv:2103.0781 [statME]. (To appear in *Biostatistics*)
+- Manuscript: **Chen YT**, Jewell SW, Witten DM. (2021) [Quantifying uncertainty in spikes estimated from calcium imaging data](https://doi.org/10.1093/biostatistics/kxab034), *Biostatistics*, Oxford University Press.
 - Software: [https://github.com/yiqunchen/SpikeInference](https://github.com/yiqunchen/SpikeInference)
 - Software tutorial: [https://yiqunchen.github.io/SpikeInference/](https://yiqunchen.github.io/SpikeInference/)
 - You can learn more about this project by watching my talk at WNAR 2021 [here](https://youtu.be/tMzv-ok4Liw)
@@ -30,7 +31,7 @@ Social isolation among HIV-positive persons might be an important barrier to car
 - Manuscript: **Chen YT**, Brown LB, Chamie G, Kwarisiima D, Ayieko J, Kabami J, Charlebois E, Clark T, Kamya M, Havlir DV, Petersen ML, and Balzer LB (2021). Social networks and HIV care outcomes in rural Kenya and Uganda. *Epidemiology*, 32(4):551-559. 
 - Link to the publisher's version [here](https://journals.lww.com/epidem/Fulltext/2021/07000/Social_Networks_and_HIV_Care_Outcomes_in_Rural.12.aspx).
 <img src="{{site.url}}/images/cropped_network.png" style="display: block; margin: auto; max-width: 30%; float:right" />
-- Two related posters at CROI 2020: 
+- Two related projects presented at CROI 2020: 
 	- Project 1: [Preliminary work of this manuscript](https://www.croiconference.org/abstract/hiv-persons-in-rural-uganda-with-fewer-social-connections-have-lower-hiv-suppression/)
 	- Project 2: [Using social networks to reach individuals with low CD4 counts](https://www.croiconference.org/abstract/using-social-networks-to-reach-individuals-with-low-cd4-at-high-risk-of-death/)
 
