@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=LKX12zEAAAAJ&hl=en&authuser=1)
+You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=LKX12zEAAAAJ&hl=en&authuser=1).
 
 ## Selected publications and preprints
 1. **Chen YT**, Jewell SW, and Witten DM (2021+). More powerful selective
