@@ -1,13 +1,13 @@
-# main links links
+# main links 
 main:
-  - title: "Research"
+  - title: "Research & Projects"
     url: /research/  
     
   - title: "CV"
     url: /cv/    
         
-  - title: "Course Project"
-    url: /Teaching/
-
-  - title: "Blog Posts"
-    url: /year-archive/
+ # - title: "Course Project"
+ #   url: /Teaching/
+ 
+ #  - title: "Blog Posts"
+ #   url: /year-archive/
