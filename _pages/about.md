@@ -1,10 +1,13 @@
 ---
-layout: About
-title: "About"
-permalink: /about/
+permalink: /
+title: ""
+excerpt: "About me"
 author_profile: true
-redirect_from:
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
 
 # About Me
 I am a final-year master’s student in [Statistics at the University of Texas at Dallas](https://nsm.utdallas.edu/) and Research intern at the [McDermott Bioinformatics Lab, UT Southwestern Medical Center (UTSW)](https://www.utsouthwestern.edu/labs/bioinformatics-lab/), advised by [Dr. Xing, Chao](https://profiles.utsouthwestern.edu/profile/92824/chao-xing.html). Previously I completed my bachelor degree in [Statistics at National Cheng Kung University, Taiwan](https://www.stat.ncku.edu.tw/index.php?lang=en) and was advised by [Dr. Yang, Cheng-Ta](https://psychology.ncku.edu.tw/en/Teacher_Detail.aspx?ID=c3a92ef1-d598-41eb-8211-b2d6b4033957) on my undergraduate thesis.
