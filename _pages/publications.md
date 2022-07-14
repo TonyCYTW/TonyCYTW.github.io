@@ -5,8 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
-You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=LKX12zEAAAAJ&hl=en&authuser=1).
+You can find my Google Scholar profile here. <!-- [here](https://scholar.google.com/citations?user=LKX12zEAAAAJ&hl=en&authuser=1).-->
 
+## Selected publications and preprints
+
+
+## Selected software
+
+<!--
 ## Selected publications and preprints
 - **Chen YT**, Witten DM (2022+). Selective inference for k-means clustering. arXiv preprint. arXiv link: https://arxiv.org/abs/2203.15267.
 - Marquez C<sup>&dagger;</sup>, **Chen YT**<sup>&dagger;</sup>, Atukunda M, Chamie G, Balzer LB, ..., Charlebois ED, Havlir DV, Petersen ML (2022+). The Association Between Social Network Characteristics and TB Infection Among Adults in Nine Rural Ugandan Communities. Submitted; &dagger; denotes joint first authorship.
@@ -30,5 +36,5 @@ arXiv link: http://arxiv.org/abs/1908.09059.
 - SpikeInference:
 	- An R package (which serves as a wrapper for c++ code) hosted on Github.
 	- Tutorials available [here](https://yiqunchen.github.io/SpikeInference/).
-
+-->
 
