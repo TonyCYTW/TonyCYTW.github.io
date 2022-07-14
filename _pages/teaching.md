@@ -1,9 +1,21 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Course Project"
 permalink: /teaching/
 author_profile: true
 ---
+
+## Graduate
+- project Course 1
+- project Course 2
+- project Course 3
+
+## Undegraduate
+- project Course 1
+- project Course 2
+- project Course 3
+
+<!--
 ## Teaching Assistant at University of Washington
 - Categorical Data Analysis (BIOSTAT 536; graduate level).
 - Longitudinal and Multilevel Data Analysis (BIOSTAT 540; graduate-level; median evaluation: 4.7/5.0 (n=38)).
@@ -25,6 +37,6 @@ and causal inference.
 - Discrete Mathematics and Probability (CS 70; undergraduate-level; Summer
 2016 & Spring 2017).
 
-
+-->
 
 
