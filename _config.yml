@@ -8,9 +8,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Chun-Yuan Huang"
+title                    : "Personal Website"
 title_separator          : "-"
-name                     : &name "Chun-Yuan Huang"
+name                     : &name "Chun-Yuan (Tony) Huang"
 description              : &description "Chun-Yuan's personal website"
 url                      : https://TonyCYTW.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chun-Yuan Huang"
+  name             : "Chun-Yuan (Tony) Huang"
   avatar           : # "yiqun_formal_profile.JPG"
   bio              : "Statistician"
   location         : 
