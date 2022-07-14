@@ -1,5 +1,5 @@
 ---
-layout: about_me
+layout: archive
 title: "About"
 permalink: /about_me/
 author_profile: true
