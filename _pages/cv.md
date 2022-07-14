@@ -7,7 +7,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-Tony Huang_UTD_CV_20220714.pdf
 <object data="https://TonyCYTW.github.io/document/Tony Huang_UTD_CV_20220714.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://TonyCYTW.github.io/document/Tony Huang_UTD_CV_20220714.pdf.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://TonyCYTW.github.io/document/Tony Huang_UTD_CV_20220714.pdf">Download PDF</a>.</p>
