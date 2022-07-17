@@ -5,14 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Interest
-
-
 ## Current Research Projects
-
+- 
+- Ahmad Z, Xing C, Khera A, **Huang, CY**, Brandt EJ, MacDougall DE, Ahmed CD, McGowan MP, Wilemon KA, Myers KD. (2022+). Using Healthcare Claims Data And Machine Learning To Identify Health Disparities For Individuals With Diagnosed And Undiagnosed Familial Hypercholesterolemia
 
 ## Past Research Projects
 
+- **Huang, CY**, Yang, CT, and Fific M. (2018). System Factorial Technology Provides New Insights on Hybrid Search. In Poster Presented at 59th Psychonomic Society Annual Meeting. 
+- ffff
 
 
 <!---
