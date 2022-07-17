@@ -15,8 +15,8 @@ author_profile: true
 
 
 
-<!--
-You can find my Google Scholar profile here. <!-- [here](https://scholar.google.com/citations?user=LKX12zEAAAAJ&hl=en&authuser=1).-->
+<!---
+You can find my Google Scholar profile here. <!-- [here](https://scholar.google.com/citations?user=LKX12zEAAAAJ&hl=en&authuser=1).
 
 ## Selected publications and preprints
 
@@ -46,5 +46,5 @@ arXiv link: http://arxiv.org/abs/1908.09059.
 - SpikeInference:
 	- An R package (which serves as a wrapper for c++ code) hosted on Github.
 	- Tutorials available [here](https://yiqunchen.github.io/SpikeInference/).
--->
+--->
 
