@@ -7,15 +7,15 @@ author_profile: true
 
 ## Current Research Projects
 - 
-- Ahmad Z, Xing C, Khera A, **Huang, CY**, Brandt EJ, MacDougall DE, Ahmed CD, McGowan MP, Wilemon KA, Myers KD. (2022+). Using Healthcare Claims Data And Machine Learning To Identify Health Disparities For Individuals With Diagnosed And Undiagnosed Familial Hypercholesterolemia. Submitted. Journal of the American Heart Association.
+- Ahmad Z, Xing C, Khera A, **Huang CY**, Brandt EJ, MacDougall DE, Ahmed CD, McGowan MP, Wilemon KA, Myers KD. (2022+). Using Healthcare Claims Data And Machine Learning To Identify Health Disparities For Individuals With Diagnosed And Undiagnosed Familial Hypercholesterolemia. Submitted. Journal of the American Heart Association.
 
 ## Past Research Projects
 - Undergraduate Thesis
-  -  **Huang, CY**, Yang, CT, and Fific M. (2018). System Factorial Technology Provides New Insights on Hybrid Search. In Poster Presented at 59th Psychonomic Society Annual Meeting. 
+  -  **Huang CY**, Yang CT, and Fific M. (2018). System Factorial Technology Provides New Insights on Hybrid Search. In Poster Presented at 59th Psychonomic Society Annual Meeting. 
 - Course Projects
   - **Huang, CY**, Modeling hybrid search using a hierarchical Bayesian model, STAT7330 Bayesian Data Analysis, 2022
-  - **Huang, CY**, Time series analysis of contribution of Taiwanese on-road transportation to PM2.5, STAT3022 Analysis of Time Series, 2018
-  - **Huang, CY**
+  - He CY, Wu CY, **Huang, CY**, Time series analysis of contribution of on-road transportation to PM2.5: A Taiwan based study, STAT3022 Analysis of Time Series, 2018
+  - **Huang, CY**, Poisson generalized linear model on rairoad accident: A Taiwan based study,STAT4008 Statistical Consulting, 2017
   - **Huang, CY**
 
 
