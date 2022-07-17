@@ -14,7 +14,7 @@ author_profile: true
   -  **Huang CY**, Yang CT, and Fific M. (2018). System Factorial Technology Provides New Insights on Hybrid Search. In Poster Presented at 59th Psychonomic Society Annual Meeting. 
 - Course Projects
   - **Huang CY**, Modeling hybrid search using a hierarchical Bayesian model, STAT7330 Bayesian Data Analysis, 2022
-  - He CY, Wu CY, **Huang CY**, Time series analysis of contribution of on-road transportation to PM2.5: A Taiwan based study, STAT3022 Analysis of Time Series, 2018
+  - He CY, Wu CY, **Huang CY**, Time series analysis of on-road transportation contribution to PM2.5: A Taiwan based study, STAT3022 Analysis of Time Series, 2018
   - Li CJ, He CY, Lin TW, **Huang CY**, Poisson generalized linear model on railroad accident data: A Taiwan based study,STAT4008 Statistical Consulting, 2017
   - **Huang CY**
 
