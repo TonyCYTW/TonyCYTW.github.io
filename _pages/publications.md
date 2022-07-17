@@ -13,8 +13,8 @@ author_profile: true
 - Undergraduate Thesis
   -  **Huang, CY**, Yang, CT, and Fific M. (2018). System Factorial Technology Provides New Insights on Hybrid Search. In Poster Presented at 59th Psychonomic Society Annual Meeting. 
 - Course Projects
-  - **Huang, CY**, Modeling Hybrid Search Using a Hierarchical Bayesian Model, STAT7330 Bayesian Data Analysis, 2022
-  - **Huang, CY**
+  - **Huang, CY**, Modeling hybrid search using a hierarchical Bayesian model, STAT7330 Bayesian Data Analysis, 2022
+  - **Huang, CY**, Time series analysis of contribution of Taiwanese on-road transportation to PM2.5, STAT3022 Analysis of Time Series, 2018
   - **Huang, CY**
   - **Huang, CY**
 
