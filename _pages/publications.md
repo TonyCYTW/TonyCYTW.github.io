@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Current Research Projects
-- **Huang CY**,..., Xing C. Network and changepoint estimation on single-cell RNA sequencing pseudotime trajectories. 
+- **Huang CY**,..., Xing C. Network and Changepoint Estimation on Single-Cell RNA Sequencing Pseudotime Trajectories. 
 - Ahmad Z, Xing C, Khera A, **Huang CY**, Brandt EJ, MacDougall DE, Ahmed CD, McGowan MP, Wilemon KA, Myers KD. (2022+). Using Healthcare Claims Data And Machine Learning To Identify Health Disparities For Individuals With Diagnosed And Undiagnosed Familial Hypercholesterolemia. Submitted. Journal of the American Heart Association.
 
 ## Past Research Projects
