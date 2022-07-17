@@ -11,7 +11,7 @@ author_profile: true
 ## Current Research Projects
 
 
-## Course Projects
+## Past Research Projects
 
 
 
