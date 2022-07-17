@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-# Current Research Projects
+# Current Projects
 - **Huang CY**,..., Xing C. Network and Changepoint Estimation on Single-Cell RNA Sequencing Pseudotime Trajectories. 
 - Ahmad Z, Xing C, Khera A, **Huang CY**, Brandt EJ, MacDougall DE, Ahmed CD, McGowan MP, Wilemon KA, Myers KD. (2022+). Using Healthcare Claims Data And Machine Learning to Identify Health Disparities for Individuals with Diagnosed And Undiagnosed Familial Hypercholesterolemia. Submitted. Journal of the American Heart Association.
 
-# Past Research Projects
+# Past Projects
 - Undergraduate Thesis
   -  **Huang CY**, Yang CT, and Fific M. (2018). System Factorial Technology Provides New Insights on Hybrid Search. In Poster Presented at 59th Psychonomic Society Annual Meeting. 
 - Course Projects
