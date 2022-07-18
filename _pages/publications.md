@@ -11,7 +11,7 @@ author_profile: true
 
 ### Past Projects
 - Undergraduate Thesis
-  -  **Huang CY**, Yang CT, and Fific M. (2018). System Factorial Technology Provides New Insights on Hybrid Search. In Poster Presented at 59th Psychonomic Society Annual Meeting. [[Poster](https://www.dropbox.com/s/fydmuwti40z7far/Psychometric%20Poster_System%20Factorial%20Technology%20Provides%20New%20Insights%20on%20Hybrid%20Search.pdf?dl=0)][[Paper](https://www.dropbox.com/s/w88wryykg0k97sy/%E5%85%AC%E8%B7%AF%E9%81%8B%E8%BC%B8%E6%8E%92%E6%94%BE%E6%B0%A3%E9%AB%94%E8%88%87%E7%B3%BB%E6%87%B8%E6%B5%AE%E5%BE%AE%E7%B2%92%E4%B9%8B%E7%9B%B8%E9%97%9C%E6%80%A7.pdf?dl=0)]  
+  -  **Huang CY**, Yang CT, and Fific M. (2018). System Factorial Technology Provides New Insights on Hybrid Search. In Poster Presented at 59th Psychonomic Society Annual Meeting. [[Poster](https://www.dropbox.com/s/fydmuwti40z7far/Psychometric%20Poster_System%20Factorial%20Technology%20Provides%20New%20Insights%20on%20Hybrid%20Search.pdf?dl=0)][[Paper](https://www.dropbox.com/s/pfh8igvdawebpco/Eng_System%20factorial%20technology%20provides%20new%20insights%20on%20hybrid%20search.pdf?dl=0)]  
   *Awarded [Graduate Conference Award](https://www.psychonomic.org/page/2018GraduateTravelRecipients) based on my written research proposal.  
   Awarded National Science Council (NSC) fellowship for excellent students based on my written research proposal.*
 - Course and Voluntary Projects
