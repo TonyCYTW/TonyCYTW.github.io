@@ -7,7 +7,7 @@ author_profile: true
 
 ### Current Projects
 - **Huang CY**,..., Xing C. Network and Changepoint Estimation on Single-Cell RNA Sequencing Pseudotime Trajectories. 
-- Ahmad Z, Xing C, Khera A, **Huang CY**, Brandt EJ, MacDougall DE, Ahmed CD, McGowan MP, Wilemon KA, Myers KD. (2022+). Using Healthcare Claims Data And Machine Learning to Identify Health Disparities for Individuals with Diagnosed And Undiagnosed Familial Hypercholesterolemia. Submitted. Journal of the American Heart Association.
+- Ahmad Z, Xing C, Khera A, **Huang CY**, Brandt EJ, MacDougall DE, Ahmed CD, McGowan MP, Wilemon KA, Myers KD. (2022+). Using Healthcare Claims Data and Machine Learning to Identify Health Disparities for Individuals with Diagnosed and Undiagnosed Familial Hypercholesterolemia. Submitted. Journal of the American Heart Association.
 
 ### Past Projects
 - Undergraduate Thesis
