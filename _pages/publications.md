@@ -13,10 +13,9 @@ author_profile: true
 - Undergraduate Thesis
   -  **Huang CY**, Yang CT, and Fific M. (2018). System Factorial Technology Provides New Insights on Hybrid Search. In Poster Presented at 59th Psychonomic Society Annual Meeting. [[Poster](https://www.dropbox.com/s/motf1mdf9v8d3de/%E9%90%B5%E8%B7%AF%E5%B9%B3%E4%BA%A4%E9%81%93%E8%88%87%E8%BB%8A%E8%90%BD%E6%AC%A1%E6%95%B8%E9%97%9C%E4%BF%82.pdf?dl=0)][[Paper](https://www.dropbox.com/s/w88wryykg0k97sy/%E5%85%AC%E8%B7%AF%E9%81%8B%E8%BC%B8%E6%8E%92%E6%94%BE%E6%B0%A3%E9%AB%94%E8%88%87%E7%B3%BB%E6%87%B8%E6%B5%AE%E5%BE%AE%E7%B2%92%E4%B9%8B%E7%9B%B8%E9%97%9C%E6%80%A7.pdf?dl=0)]
 - Course Projects
-  - **Huang CY**, Modeling hybrid search using a hierarchical Bayesian model, STAT7330 Bayesian Data Analysis, 2022
-  - He CY, Wu CY, **Huang CY**, Time series analysis of on-road transportation contribution to PM2.5: A Taiwan based study, STAT3022 Analysis of Time Series, 2018
-  - Li CJ, He CY, Lin TW, **Huang CY**, Poisson generalized linear model on railroad accident data: A Taiwan based study,STAT4008 Statistical Consulting, 2017
-  - **Huang CY**
+  - **Huang CY**, Modeling hybrid search using a hierarchical Bayesian model, STAT7330 Bayesian Data Analysis, 2022 [[Slides](https://www.dropbox.com/s/motf1mdf9v8d3de/%E9%90%B5%E8%B7%AF%E5%B9%B3%E4%BA%A4%E9%81%93%E8%88%87%E8%BB%8A%E8%90%BD%E6%AC%A1%E6%95%B8%E9%97%9C%E4%BF%82.pdf?dl=0)][[Paper](https://www.dropbox.com/s/w88wryykg0k97sy/%E5%85%AC%E8%B7%AF%E9%81%8B%E8%BC%B8%E6%8E%92%E6%94%BE%E6%B0%A3%E9%AB%94%E8%88%87%E7%B3%BB%E6%87%B8%E6%B5%AE%E5%BE%AE%E7%B2%92%E4%B9%8B%E7%9B%B8%E9%97%9C%E6%80%A7.pdf?dl=0)]
+  - He CY, Wu CY, **Huang CY**, Time series analysis of on-road transportation contribution to PM2.5: A Taiwan based study, STAT3022 Analysis of Time Series, 2018 [[Paper](https://www.dropbox.com/s/w88wryykg0k97sy/%E5%85%AC%E8%B7%AF%E9%81%8B%E8%BC%B8%E6%8E%92%E6%94%BE%E6%B0%A3%E9%AB%94%E8%88%87%E7%B3%BB%E6%87%B8%E6%B5%AE%E5%BE%AE%E7%B2%92%E4%B9%8B%E7%9B%B8%E9%97%9C%E6%80%A7.pdf?dl=0)]
+  - Li CJ, He CY, Lin TW, **Huang CY**, Poisson generalized linear model on railroad accident data: A Taiwan based study,STAT4008 Statistical Consulting, 2017 [[Paper](https://www.dropbox.com/s/w88wryykg0k97sy/%E5%85%AC%E8%B7%AF%E9%81%8B%E8%BC%B8%E6%8E%92%E6%94%BE%E6%B0%A3%E9%AB%94%E8%88%87%E7%B3%BB%E6%87%B8%E6%B5%AE%E5%BE%AE%E7%B2%92%E4%B9%8B%E7%9B%B8%E9%97%9C%E6%80%A7.pdf?dl=0)]
 
 
 <!---
