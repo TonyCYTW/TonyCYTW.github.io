@@ -66,8 +66,10 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=iCZwypIAAAAJ"
 
 # Analytics
 analytics:
@@ -83,7 +85,6 @@ author:
   bio              : "Aspiring statistician"
   location         : 
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=iCZwypIAAAAJ&hl=zh-TW" # https://scholar.google.com/citations?user=LKX12zEAAAAJ&hl=en&authuser=1
   email            : "chunyuanh@smu.edu"
   uri              : 
   bitbucket        :
