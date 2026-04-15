@@ -2,26 +2,26 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: false
-published: false
+author_profile: true
 ---
 
-### Current Projects
-- Statistical Inference Methods to Assess Replicability Success. In Preperation.
-- Network and Changepoint Estimation on Single-Cell RNA Sequencing Pseudotime Trajectories. In Preperation.
+### Publications
 
-### Past Projects
-- Ahmad Z., Xing C., Khera A., Huang C.Y., Brandt E.J., MacDougall D.E., Ahmed C.D., McGowan M.P., Wilemon K.A., Myers K.D. (2022). Using Healthcare Claims
-Data and Machine Learning to Identify Health Disparities for Individuals With Diagnosed and Undiagnosed Familial Hypercholesterolemia. Circulation. 2022;146(Suppl 1): A12665. doi:10.1161/circ.146.suppl 1.12665
-- Undergraduate Thesis
-  -  **Huang CY**, Yang CT, and Fific M. (2018). System Factorial Technology Provides New Insights on Hybrid Search. In Poster Presented at 59th Psychonomic Society Annual Meeting. [[Poster](https://www.dropbox.com/s/fydmuwti40z7far/Psychometric%20Poster_System%20Factorial%20Technology%20Provides%20New%20Insights%20on%20Hybrid%20Search.pdf?dl=0)][[Paper](https://www.dropbox.com/s/pfh8igvdawebpco/Eng_System%20factorial%20technology%20provides%20new%20insights%20on%20hybrid%20search.pdf?dl=0)]  
-  *Award [2018 Graduate Conference Award](https://www.psychonomic.org/page/2018GraduateTravelRecipients) and National Science Council (NSC) fellowship for excellent students based on my written research proposal.*  
-- Course and Voluntary Projects
-  - **Huang CY**, Modeling hybrid search using a hierarchical Bayesian model, STAT7330 Bayesian Data Analysis, 2022 [[Slides](https://www.dropbox.com/s/80vn2og8r4qq7qj/Final_presentation_CYH.pdf?dl=0)][[Paper](https://www.dropbox.com/s/w0hrn6ukijqu6sc/Report.pdf?dl=0)]
-  - He CY, Wu CY, **Huang CY**, Time series analysis of on-road transportation contribution to PM2.5: A Taiwan based study, STAT3022 Analysis of Time Series, 2018 [[Paper in Mandarin](https://www.dropbox.com/s/w88wryykg0k97sy/%E5%85%AC%E8%B7%AF%E9%81%8B%E8%BC%B8%E6%8E%92%E6%94%BE%E6%B0%A3%E9%AB%94%E8%88%87%E7%B3%BB%E6%87%B8%E6%B5%AE%E5%BE%AE%E7%B2%92%E4%B9%8B%E7%9B%B8%E9%97%9C%E6%80%A7.pdf?dl=0)]
-  - Li CJ, He CY, Lin TW, **Huang CY**, Poisson generalized linear model on railroad accident data: A Taiwan based study, STAT4008 Statistical Consulting, 2018 [[Paper in Mandarin](https://www.dropbox.com/s/motf1mdf9v8d3de/%E9%90%B5%E8%B7%AF%E5%B9%B3%E4%BA%A4%E9%81%93%E8%88%87%E8%BB%8A%E8%90%BD%E6%AC%A1%E6%95%B8%E9%97%9C%E4%BF%82.pdf?dl=0)]
-  - Kaohsiung Dept. of Health, **Huang CY**, Exploratory data analysis on emergency medical service structures: A southern-Taiwan based study, Data for Social Goods, 2018 [[Report in Mandarin](http://d4sg.org/emergency-medical-optimization/)]
-  
+Hoff F.W., Xing C., **Huang C.Y.**, Simha V., Brown R.J., Garg A. (2026). *Genotype-Phenotype Heterogeneity Among Patients with Lipodystrophy Harboring Rare POLD1 Variants.* **The Journal of Clinical Endocrinology & Metabolism**, dgag079.
+
+Patni N., Xing C., **Huang C.Y.**, Brown R.J., Garg A. (2026). *Novel Homozygous Variants in CIDEC and WRN in a Young Female with Lipodystrophy and Thyroid Cancer.* **International Journal of Molecular Sciences**, 27(2), 646.
+
+McGowan M.P., Xing C., Khera A., **Huang C.Y.**, Shao Y., Xing M., Brandt E.J., MacDougall D.E., Ahmed C.D., Wilemon K.A., Ahmad Z. (2025). *Using healthcare claims data to identify health disparities for individuals with familial hypercholesterolemia.* **Journal of Clinical Lipidology**, 19(4), 1020–1028.
+
+### Presentations
+
+**Huang C.Y.**, Xing C. (2026). *What Determines Statistical Power in Ratio-Trait Genetic Association Studies? Effects of Scale, Heritability, and Genetic Correlation.* Poster presented at Southern Methodist University Research Week and the ASA North Texas Chapter. [[Poster](https://www.dropbox.com/scl/fi/4gw0rvlka7gdbo3bekk9w/Poster_CYH_0326.pdf?rlkey=pvbnzdmgasg6of32wbo9rim2u&st=y3fm7ulh&dl=0)]
+
+**Huang CY**, Yang CT, and Fific M. (2018). System Factorial Technology Provides New Insights on Hybrid Search. In Poster Presented at 59th Psychonomic Society Annual Meeting. [[Poster](https://www.dropbox.com/s/fydmuwti40z7far/Psychometric%20Poster_System%20Factorial%20Technology%20Provides%20New%20Insights%20on%20Hybrid%20Search.pdf?dl=0)][[Paper](https://www.dropbox.com/s/pfh8igvdawebpco/Eng_System%20factorial%20technology%20provides%20new%20insights%20on%20hybrid%20search.pdf?dl=0)]  
+  *Award [2018 Graduate Conference Award](https://www.psychonomic.org/page/2018GraduateTravelRecipients) and National Science Council (NSC) fellowship for excellent students based on my written research proposal.*
+
+You can find my Google Scholar profile here. <!-- [here](https://scholar.google.com/citations?user=iCZwypIAAAAJ&hl).
+
 <!---
 You can find my Google Scholar profile here. <!-- [here](https://scholar.google.com/citations?user=LKX12zEAAAAJ&hl=en&authuser=1).
 
