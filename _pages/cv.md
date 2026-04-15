@@ -7,10 +7,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-<object data="https://TonyCYTW.github.io/document/Tony Huang_SMU_CV_20250217.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://TonyCYTW.github.io/document/Tony Huang_SMU_CV_20250217.pdf">
+<object data="https://TonyCYTW.github.io/document/CV_CYH_04122026.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://TonyCYTW.github.io/document/CV_CYH_04122026.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://TonyCYTW.github.io/document
-/Tony Huang_SMU_CV_20250217.pdf">Download PDF</a>.</p>
+/CV_CYH_04122026.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
