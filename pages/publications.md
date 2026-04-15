@@ -20,7 +20,7 @@ McGowan M.P., Xing C., Khera A., **Huang C.Y.**, Shao Y., Xing M., Brandt E.J., 
 **Huang CY**, Yang CT, and Fific M. (2018). System Factorial Technology Provides New Insights on Hybrid Search. In Poster Presented at 59th Psychonomic Society Annual Meeting. [[Poster](https://www.dropbox.com/s/fydmuwti40z7far/Psychometric%20Poster_System%20Factorial%20Technology%20Provides%20New%20Insights%20on%20Hybrid%20Search.pdf?dl=0)][[Paper](https://www.dropbox.com/s/pfh8igvdawebpco/Eng_System%20factorial%20technology%20provides%20new%20insights%20on%20hybrid%20search.pdf?dl=0)]  
   *Award [2018 Graduate Conference Award](https://www.psychonomic.org/page/2018GraduateTravelRecipients) and National Science Council (NSC) fellowship for excellent students based on my written research proposal.*
 
-You can find my Google Scholar profile here. <!-- [here](https://scholar.google.com/citations?user=iCZwypIAAAAJ&hl).
+You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=iCZwypIAAAAJ&hl).
 
 <!---
 You can find my Google Scholar profile here. <!-- [here](https://scholar.google.com/citations?user=LKX12zEAAAAJ&hl=en&authuser=1).
