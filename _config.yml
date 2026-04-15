@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en"
 title                    : "Chun-Yuan (Tony) Huang"
 title_separator          : "-"
-name                     : #&name "Chun-Yuan (Tony) Huang"
+name                     : &name "Chun-Yuan (Tony) Huang"
 description              : &description "Chun-Yuan's personal website"
 url                      : https://TonyCYTW.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,13 +79,9 @@ analytics:
 author:
   name             : "Chun-Yuan (Tony) Huang"
   avatar           : "poster_pic.jpg"
-  bio              : "Aspiring statistician"
-  location         : 
-  employer         : 
-  links:
-    - label: "Google Scholar"
-      icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=iCZwypIAAAAJ&hl=en"
+  bio              : "PhD Candidate in Biostatistics | Statistical Genetics & GWAS"
+  location         : "Dallas, TX, USA"
+  employer         : "Southern Methodist University & UT Southwestern Medical Center"
   email            : "chunyuanh@smu.edu"
   uri              : 
   bitbucket        :
