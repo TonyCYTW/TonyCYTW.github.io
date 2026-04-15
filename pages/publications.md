@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-View my complete list of publications [here](https://scholar.google.com/citations?user=iCZwypIAAAAJ&hl).
+**View my complete list of publications [here](https://scholar.google.com/citations?user=iCZwypIAAAAJ&hl).**
 
 ### Publications
 
