@@ -84,7 +84,7 @@ author:
   employer         : 
   links:
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=iCZwypIAAAAJ&hl=en"
   email            : "chunyuanh@smu.edu"
   uri              : 
