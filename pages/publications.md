@@ -9,17 +9,14 @@ author_profile: true
 
 ### Publications
 
-Hoff F.W., Xing C., **Huang C.Y.**, Simha V., Brown R.J., Garg A. (2026). *Genotype-Phenotype Heterogeneity Among Patients with Lipodystrophy Harboring Rare POLD1 Variants.* **The Journal of Clinical Endocrinology & Metabolism**, dgag079.
-
-Patni N., Xing C., **Huang C.Y.**, Brown R.J., Garg A. (2026). *Novel Homozygous Variants in CIDEC and WRN in a Young Female with Lipodystrophy and Thyroid Cancer.* **International Journal of Molecular Sciences**, 27(2), 646.
-
-McGowan M.P., Xing C., Khera A., **Huang C.Y.**, Shao Y., Xing M., Brandt E.J., MacDougall D.E., Ahmed C.D., Wilemon K.A., Ahmad Z. (2025). *Using healthcare claims data to identify health disparities for individuals with familial hypercholesterolemia.* **Journal of Clinical Lipidology**, 19(4), 1020–1028.
+- Hoff F.W., Xing C., **Huang C.Y.**, Simha V., Brown R.J., Garg A. (2026). *Genotype-Phenotype Heterogeneity Among Patients with Lipodystrophy Harboring Rare POLD1 Variants.* **The Journal of Clinical Endocrinology & Metabolism**, dgag079.
+- Patni N., Xing C., **Huang C.Y.**, Brown R.J., Garg A. (2026). *Novel Homozygous Variants in CIDEC and WRN in a Young Female with Lipodystrophy and Thyroid Cancer.* **International Journal of Molecular Sciences**, 27(2), 646.
+- McGowan M.P., Xing C., Khera A., **Huang C.Y.**, Shao Y., Xing M., Brandt E.J., MacDougall D.E., Ahmed C.D., Wilemon K.A., Ahmad Z. (2025). *Using healthcare claims data to identify health disparities for individuals with familial hypercholesterolemia.* **Journal of Clinical Lipidology**, 19(4), 1020–1028.
 
 ### Presentations
 
-**Huang C.Y.**, Xing C. (2026). *What Determines Statistical Power in Ratio-Trait Genetic Association Studies? Effects of Scale, Heritability, and Genetic Correlation.* Poster presented at Southern Methodist University Research Week and the ASA North Texas Chapter. [[Poster](https://www.dropbox.com/scl/fi/4gw0rvlka7gdbo3bekk9w/Poster_CYH_0326.pdf?rlkey=pvbnzdmgasg6of32wbo9rim2u&st=y3fm7ulh&dl=0)]
-
-**Huang CY**, Yang CT, and Fific M. (2018). System Factorial Technology Provides New Insights on Hybrid Search. In Poster Presented at 59th Psychonomic Society Annual Meeting. [[Poster](https://www.dropbox.com/s/fydmuwti40z7far/Psychometric%20Poster_System%20Factorial%20Technology%20Provides%20New%20Insights%20on%20Hybrid%20Search.pdf?dl=0)][[Paper](https://www.dropbox.com/s/pfh8igvdawebpco/Eng_System%20factorial%20technology%20provides%20new%20insights%20on%20hybrid%20search.pdf?dl=0)]  
+- **Huang C.Y.**, Xing C. (2026). *What Determines Statistical Power in Ratio-Trait Genetic Association Studies? Effects of Scale, Heritability, and Genetic Correlation.* Poster presented at Southern Methodist University Research Week and the ASA North Texas Chapter. [[Poster](https://www.dropbox.com/scl/fi/4gw0rvlka7gdbo3bekk9w/Poster_CYH_0326.pdf?rlkey=pvbnzdmgasg6of32wbo9rim2u&st=y3fm7ulh&dl=0)]
+- **Huang C.Y.**, Yang C.T., and Fific M. (2018). System Factorial Technology Provides New Insights on Hybrid Search. In Poster Presented at 59th Psychonomic Society Annual Meeting. [[Poster](https://www.dropbox.com/s/fydmuwti40z7far/Psychometric%20Poster_System%20Factorial%20Technology%20Provides%20New%20Insights%20on%20Hybrid%20Search.pdf?dl=0)][[Paper](https://www.dropbox.com/s/pfh8igvdawebpco/Eng_System%20factorial%20technology%20provides%20new%20insights%20on%20hybrid%20search.pdf?dl=0)]  
   *Award [2018 Graduate Conference Award](https://www.psychonomic.org/page/2018GraduateTravelRecipients) and National Science Council (NSC) fellowship for excellent students based on my written research proposal.*
 
 <!---
