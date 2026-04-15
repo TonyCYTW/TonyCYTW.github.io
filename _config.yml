@@ -82,7 +82,10 @@ author:
   bio              : "Aspiring statistician"
   location         : 
   employer         : 
-  googlescholer    : https://scholar.google.com/citations?user=iCZwypIAAAAJ&hl
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=iCZwypIAAAAJ&hl=en"
   email            : "chunyuanh@smu.edu"
   uri              : 
   bitbucket        :
