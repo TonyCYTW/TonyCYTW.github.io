@@ -80,12 +80,9 @@ author:
   name             : "Chun-Yuan (Tony) Huang"
   avatar           : "poster_pic.jpg"
   bio              : "Aspiring statistician"
-  links:
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=iCZwypIAAAAJ"
   location         : 
   employer         : 
+  googlescholer    : https://scholar.google.com/citations?user=iCZwypIAAAAJ&hl
   email            : "chunyuanh@smu.edu"
   uri              : 
   bitbucket        :
