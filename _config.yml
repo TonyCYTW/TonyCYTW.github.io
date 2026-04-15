@@ -83,7 +83,7 @@ author:
   bio              : "Aspiring statistician"
   location         : 
   employer         : 
-  googlescholar    : # https://scholar.google.com/citations?user=LKX12zEAAAAJ&hl=en&authuser=1
+  googlescholar    : https://scholar.google.com/citations?user=iCZwypIAAAAJ&hl=zh-TW # https://scholar.google.com/citations?user=LKX12zEAAAAJ&hl=en&authuser=1
   email            : "chunyuanh@smu.edu"
   uri              : 
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ChunYuanHuang3" 
+  twitter          : #"ChunYuanHuang3" 
   vine             :
   weibo            :
   xing             :
