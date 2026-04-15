@@ -67,9 +67,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links:
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=iCZwypIAAAAJ"
 
 # Analytics
 analytics:
@@ -83,6 +80,10 @@ author:
   name             : "Chun-Yuan (Tony) Huang"
   avatar           : "poster_pic.jpg"
   bio              : "Aspiring statistician"
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=iCZwypIAAAAJ"
   location         : 
   employer         : 
   email            : "chunyuanh@smu.edu"
