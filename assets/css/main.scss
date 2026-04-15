@@ -45,4 +45,10 @@ $link-color: blue;
   transform: none !important;
   box-shadow: none !important;
   transition: none !important;
+  border-radius: 16px !important;
+}
+
+.author__bio {
+  font-size: 0.85em;
+  line-height: 1.3;
 }
