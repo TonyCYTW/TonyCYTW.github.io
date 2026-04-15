@@ -40,3 +40,9 @@ $link-color: blue;
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+.author__avatar img,
+.author__avatar img:hover {
+  transform: none !important;
+  box-shadow: none !important;
+  transition: none !important;
+}
